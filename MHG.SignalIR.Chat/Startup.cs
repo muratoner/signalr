@@ -1,6 +1,8 @@
-﻿using Owin;
+﻿using Microsoft.Owin;
+using Owin;
 
-namespace MHG.SignalR.Chat
+[assembly: OwinStartup(typeof(MHG.SignalIR.Chat.Startup))]
+namespace MHG.SignalIR.Chat
 {
     public class Startup
     {

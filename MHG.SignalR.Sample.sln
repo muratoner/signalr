@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.SignalR.Stock", "MHG.SignalR.Sample\MHG.SignalR.Stock.csproj", "{704C58C0-CD1C-4510-8A84-1AA0B97F593B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.SignalR.Stock", "MHG.SignalR.Stock\MHG.SignalR.Stock.csproj", "{704C58C0-CD1C-4510-8A84-1AA0B97F593B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.SignalR.Chat", "MHG.SignalR.Core\MHG.SignalR.Chat.csproj", "{C3823862-0EBD-4527-8784-E4DDCD177981}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.SignalIR.Chat", "MHG.SignalIR.Chat\MHG.SignalIR.Chat.csproj", "{7A6DBCAB-F108-4B4D-A000-B80BC444B7EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{704C58C0-CD1C-4510-8A84-1AA0B97F593B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{704C58C0-CD1C-4510-8A84-1AA0B97F593B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{704C58C0-CD1C-4510-8A84-1AA0B97F593B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3823862-0EBD-4527-8784-E4DDCD177981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3823862-0EBD-4527-8784-E4DDCD177981}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3823862-0EBD-4527-8784-E4DDCD177981}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3823862-0EBD-4527-8784-E4DDCD177981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6DBCAB-F108-4B4D-A000-B80BC444B7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6DBCAB-F108-4B4D-A000-B80BC444B7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6DBCAB-F108-4B4D-A000-B80BC444B7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6DBCAB-F108-4B4D-A000-B80BC444B7EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
